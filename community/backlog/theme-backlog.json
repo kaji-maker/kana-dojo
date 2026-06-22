@@ -1212,8 +1212,10 @@
     "backgroundColor": "oklch(19.0% 0.030 35.0 / 1)",
     "mainColor": "oklch(78.0% 0.185 45.0 / 1)",
     "secondaryColor": "oklch(88.0% 0.115 95.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "karanx64",
+    "completedPR": 21628
   },
   {
     "id": "blooming-ume",
